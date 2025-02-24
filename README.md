@@ -8,7 +8,7 @@ course_chen
 
 ## Overview
 <p align="center">
-  <img src="https://github.com/xiaoxingxingkz/TPA-GAN/blob/main/Figure_in_paper/Fig1.png" width="700">
+  <img src="https://github.com/xiaoxingxingkz/crt_Image_classification/blob/main/Image/img.png" width="700">
 </p>
 
 ## Installation
