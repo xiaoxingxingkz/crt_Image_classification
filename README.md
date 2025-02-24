@@ -3,7 +3,7 @@ course_chen
 
 ## Summary
 
-AI辅助图像生物标记物识别 课程实验代码
+利用机器学习方法实现图像生物标记物识别
 
 
 ## Overview
@@ -11,10 +11,11 @@ AI辅助图像生物标记物识别 课程实验代码
   <img src="https://github.com/xiaoxingxingkz/TPA-GAN/blob/main/Figure_in_paper/Fig1.png" width="700">
 </p>
 
-## 环境要求
+## Installation
 
-cv2
-sklearn
+*cv2
+
+*sklearn
 
 
 
